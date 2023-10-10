@@ -1,4 +1,4 @@
-# Homework 2 select_students DML
+# Part 2 select_students DML
 ## Create table students with following DDL:
 ```
 CREATE TABLE public.students (

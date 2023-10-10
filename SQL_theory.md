@@ -263,8 +263,7 @@ includes all the rows that belong to all queries in the union.
 in another table. 
 
 ## Joins
-![joins](https://github.com/MariaDash/SQL/blob/main/SQL_Additional/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA13.PNG)
-
+![joins](https://github.com/MariaDash/SQL/blob/main/SQL_Additional/image.PNG)
 ## SQL Create Constraints
 Constraints can be specified when the table is created with the CREATE TABLE statement, or after the table is created with the ALTER TABLE statement.
 SQL Constraints

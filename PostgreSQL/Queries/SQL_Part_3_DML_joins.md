@@ -1,4 +1,4 @@
-# Homework 3 Joins
+# Part 3 Joins
 ## 1. Show all workers names and their salary 
 + 'INNER JOIN' is equal to 'JOIN'
 + [INNER] JOIN (default) - A join that displays only the rows that have a match in both joined tables :
